@@ -34,4 +34,4 @@ Building performant, production-ready web applications with TypeScript, React, N
 
 ---
 
-Open to software engineering roles · Based in Abuja, Nigeria
+Open to software engineering roles
