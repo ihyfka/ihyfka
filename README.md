@@ -25,6 +25,7 @@ Building performant, production-ready web applications with TypeScript, React, N
 **Projects**
 
 - [Velo](https://velo.name.ng) — Minimalist blogging platform with passwordless auth, block-style editor, and a custom ad delivery system
+- [Tasi](https://tasi-sigma.vercel.app) — Curated luxury fashion store featuring contemporary collections, refined designs, and effortless style.
 
 ---
 
